@@ -8,7 +8,7 @@ html, body {
     background-image: url(
         "img/oriolesfield.jpg");
     width: 100%;
-    height: 50%;
+    height: 100%;
     background-position-x: 50%;
     background-position-y: 50%;
     background-size: cover;

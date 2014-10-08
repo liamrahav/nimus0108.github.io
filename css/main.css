@@ -24,6 +24,23 @@ html, body {
 .myname {
     color:white;
     vertical-align: middle;
-    font-size: 400%;
+    font-size: 600%;
     font-family: sans-serif;
+}
+
+.myinfo {
+    margin-bottom: 1000px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.myintro {
+    color:#2EFEF7;
+    font-size:200%
+}
+
+.wai {
+    font-size: 300%;
+    color: #CEF6F5;
 }
